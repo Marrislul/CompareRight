@@ -1,0 +1,3 @@
+0.0.1
+
+- First version: the "Equipped" tooltips always sit to the right of the item you hover.

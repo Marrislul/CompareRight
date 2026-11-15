@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Compare Right
+## Notes: Item comparison in a fixed order: the item you hover first, your equipped item always to the right of it.
+## Author: Marris
+## Version: @project-version@
+## IconTexture: Interface\AddOns\CompareRight\Media\icon
+
+CompareRight.lua
